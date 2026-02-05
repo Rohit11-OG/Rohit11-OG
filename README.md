@@ -119,14 +119,6 @@
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
 <br>React
 </td>
@@ -232,22 +224,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48" alt="Matplotlib" />
 <br>Matplotlib
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
+
 </tr>
 <tr>
 <td align="center" width="96">
@@ -516,8 +493,7 @@
 ### 🎯 2026 Goals
   
 - 🎓 **Graduate** with flying colors from Computer Engineering
-- 🤖 **Excel** as AI Engineer at IRDPL - deliver groundbreaking robotics projects
-- 🧠 **Master** Reinforcement Learning & Advanced Computer Vision
+-  **Master** Reinforcement Learning & Advanced Computer Vision
 - 🌟 **Contribute** to high-impact Open Source AI/ML projects
 - 🏆 **Publish** research papers or technical articles
 - 🚀 **Build** production-grade AI solutions for real-world problems
