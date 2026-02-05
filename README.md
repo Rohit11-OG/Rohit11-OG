@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100">
   
   <!-- Animated typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+Engineer+%7C+Computer+Vision+Expert;Building+ML+Algorithms+for+Robotics+%F0%9F%A4%96;Oracle+Certified+Data+Science+%26+GenAI+Pro+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+Engineer+%7C+Data+Science+%7C+Computer+Vision;Building+ML+Algorithms+for+Robotics+%F0%9F%A4%96;Oracle+Certified+Data+Science+%26+GenAI+Pro+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
