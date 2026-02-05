@@ -268,22 +268,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit11-OG&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rohit11-OG/Rohit11-OG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💼 Professional Experience
 
 **🤖 Intuitive Research and Development Pvt Ltd (IRDPL)**  
