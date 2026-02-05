@@ -123,6 +123,18 @@
 <br>R
 </td>
 <td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
 <br>SQL
 </td>
@@ -134,6 +146,8 @@
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br>Git
@@ -146,8 +160,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br>VS Code
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
 <br>PyTorch
@@ -168,6 +180,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
 <br>Pandas
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV" />
 <br>OpenCV
@@ -180,8 +194,6 @@
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
 <br>React
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48" alt="Matplotlib" />
 <br>Matplotlib
@@ -202,6 +214,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
 <br>Tableau
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48" height="48" alt="Excel" />
 <br>Excel
@@ -214,8 +228,6 @@
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
 <br>Docker
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
 <br>AWS
@@ -236,6 +248,8 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="Hugging Face" />
 <br>Hugging Face
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
 <br>GitHub
