@@ -4,6 +4,9 @@
 
 <div align="center">
   
+  <!-- Logo -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e86f-fdb5-4ad2-b6ef-79797f6f162d.gif" width="100">
+  
   <!-- Animated typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+Engineer+%7C+Computer+Vision+Expert;Building+ML+Algorithms+for+Robotics+%F0%9F%A4%96;Oracle+Certified+Data+Science+%26+GenAI+Pro+%F0%9F%9A%80" alt="Typing SVG" />
   
@@ -53,8 +56,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> What I'm Up To
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
 🎓 **Education:**
 - **B.E. in Computer Engineering** | Savitribai Phule Pune University
