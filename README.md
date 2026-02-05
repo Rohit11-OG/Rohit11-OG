@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Mandwade&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20%26%20Computer%20Vision%20Expert&descAlignY=55&descAlign=50&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Mandwade&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Science%20%7C%20ML&descAlignY=55&descAlign=50&animation=twinkling" />
 </div>
 
 <div align="center">
   
   <!-- Logo -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e86f-fdb5-4ad2-b6ef-79797f6f162d.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100">
   
   <!-- Animated typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+Engineer+%7C+Computer+Vision+Expert;Building+ML+Algorithms+for+Robotics+%F0%9F%A4%96;Oracle+Certified+Data+Science+%26+GenAI+Pro+%F0%9F%9A%80" alt="Typing SVG" />
@@ -19,8 +19,8 @@
   <!-- Profile Views Counter with Style -->
   <img src="https://komarev.com/ghpvc/?username=Rohit11-OG&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Rohit11-OG?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-AI_Engineer_@_IRDPL-success?style=for-the-badge&logo=robot" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-AI_Engineer-success?style=for-the-badge&logo=robot" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science%20%7C%20Computer%20Vision-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-Nashik%2C%20India-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Working-Pune%2C%20India-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CGPA-8.09%2F10.0-orange?style=for-the-badge" />
