@@ -31,60 +31,24 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
-```python
-class RohitMandwade:
-    def __init__(self):
-        self.name = "Rohit Mandwade"
-        self.location = "Nashik, Maharashtra, India"
-        self.current_role = "AI Engineer @ IRDPL"
-        self.education = {
-            "degree": "Bachelor of Computer Engineering",
-            "university": "Savitribai Phule Pune University",
-            "college": "Guru Gobind Singh College of Engineering, Nashik",
-            "cgpa": "8.09/10.0",
-            "graduation": "2026"
-        }
-        self.title = "Oracle Certified: Data Science & Gen AI Professional"
-        self.languages = ["Python", "SQL", "MySQL", "JavaScript", "C", "C++", "HTML", "CSS"]
-        self.specialization = [
-            "Computer Vision",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Reinforcement Learning",
-            "Natural Language Processing",
-            "Data Science",
-            "Robotics"
-        ]
-        
-    def get_skills(self):
-        return {
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "deep_learning": ["Artificial Neural Networks", "CNNs", "RNNs", "Reinforcement Learning"],
-            "web_framework": ["Flask"],
-            "cv_tools": ["OpenCV", "Computer Vision"],
-            "data_viz": ["Matplotlib", "Seaborn", "Power BI", "Tableau"],
-            "cloud": ["AWS", "Oracle Cloud Infrastructure"],
-            "tools": ["VS Code", "Jupyter Notebook", "LLMs", "Hugging Face"],
-            "databases": ["MySQL", "SQL"],
-            "other": ["Excel", "Git", "ETL", "FFmpeg", "ElevenLabs"]
-        }
-    
-    def get_certifications(self):
-        return [
-            "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
-            "Oracle Certified: Data Science Professional (2025)",
-            "BCG - GenAI Job Simulation",
-            "JP Morgan Chase & Co. Quantitative Research (2025)",
-            "Elements of AI - University of Helsinki (2025)"
-        ]
-    
-    def current_focus(self):
-        return "Building ML algorithms and Computer Vision projects for Robotic Systems @ IRDPL"
-    
-    def fun_fact(self):
-        return "I turn coffee into code and teach robots to see! 🤖☕"
-```
+**👨‍💻 Rohit Mandwade**  
+📍 Nashik, Maharashtra, India  
+💼 AI Engineer @ Intuitive Research and Development Pvt Ltd (IRDPL)  
+🎓 B.E. Computer Engineering | Savitribai Phule Pune University  
+🏆 Oracle Certified: Data Science & Gen AI Professional  
+
+**🔧 Technical Skills:**
+- **Languages:** Python, SQL, MySQL, JavaScript, C, C++, HTML, CSS
+- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+- **Specialization:** Computer Vision, Machine Learning, Deep Learning, Reinforcement Learning, NLP, Data Science, Robotics
+- **Tools:** Flask, OpenCV, Matplotlib, Seaborn, Power BI, Tableau, AWS, Oracle Cloud, VS Code, Jupyter, LLMs, Hugging Face
+
+**📜 Certifications:**
+- Oracle Cloud Infrastructure 2025 - Data Science Professional
+- Oracle Certified: Data Science Professional
+- BCG - GenAI Job Simulation
+- JP Morgan Chase & Co. - Quantitative Research
+- University of Helsinki - Elements of AI
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
