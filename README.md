@@ -180,12 +180,12 @@
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
 <br>Tailwind
@@ -214,12 +214,12 @@
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
 <br>Linux
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br>Firebase
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
 <br>NumPy
@@ -237,10 +237,6 @@
 <br>Redis
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br>Postman
 </td>
@@ -252,6 +248,8 @@
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
 <br>C++
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
 <br>C
@@ -269,18 +267,8 @@
 <br>Hugging Face
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48" height="48" alt="Excel" />
-<br>Excel
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
 <br>Tableau
-</td>
-<td align="center" width="96">
-<img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/6.1.jpg" width="48" height="48" alt="BeautifulSoup" />
-<br>BeautifulSoup
 </td>
 <td align="center" width="96">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
@@ -291,19 +279,13 @@
 <br>OpenCV
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="AI/ML" />
-<br>AI/ML
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" width="48" height="48" alt="Adobe" />
-<br>Adobe
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48" height="48" alt="Excel" />
+<br>Excel
 </td>
 </tr>
 </table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -328,7 +310,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -345,15 +326,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## � Professional Experience
+## 💼 Professional Experience
 
-<div align="center">
-### 🤖 Intuitive Research and Development Pvt Ltd (IRDPL)
-**AI Engineer** | *January 2026 – Present* | Pune, India
-
-<img src="https://img.shields.io/badge/Role-AI_Engineer-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Computer_Vision-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Domain-Robotics-red?style=for-the-badge" />
+**🤖 Intuitive Research and Development Pvt Ltd (IRDPL)**  
+*AI Engineer* | January 2026 – Present | Pune, India
 
 - 🤖 Building and optimizing ML algorithms for production robotic systems
 - 👁️ Managing Computer Vision projects for advanced robotics applications
@@ -361,11 +337,9 @@
 - 🚀 Working with cutting-edge deep learning and computer vision technologies
 
 ---
-### 🛡️ Indian Air Force – 11 BRD
-**Intern** | *Dec 2024 – Jan 2025* | Nashik, India
 
-<img src="https://img.shields.io/badge/Domain-Defense_Engineering-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Data_Management-green?style=for-the-badge" />
+**🛡️ Indian Air Force – 11 BRD**  
+*Intern* | Dec 2024 – Jan 2025 | Nashik, India
 
 - ✈️ Managed aircraft parts data integration and inventory tracking systems
 - 📊 Automated data analysis using Excel with advanced coding techniques
@@ -374,20 +348,14 @@
 
 ---
 
-### 📊 Altair
-**Data Science Specialist** | *July – Sept 2025* | Remote
-
-<img src="https://img.shields.io/badge/Grade-Outstanding_(90--100)-gold?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Duration-10_Weeks-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Virtual_Internship-purple?style=for-the-badge" />
+**📊 Altair**  
+*Data Science Specialist* | July – Sept 2025 | Remote
 
 - 🎯 Mastered key data science concepts and industry-standard practices
 - 🐍 Applied ML techniques using Python, Pandas, NumPy, and Scikit-learn
 - 📈 Completed hands-on projects with real-world datasets
-- 🏆 Achieved Outstanding grade for exceptional performance
+- 🏆 Achieved Outstanding grade (O: 90-100) for exceptional performance
 - 🌟 Focused on nation-building through skill development
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -502,6 +470,10 @@
 ☁️ **5+ Certifications** including Oracle OCI, BCG GenAI, JP Morgan  
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Connect With Me
 
 <div align="center">
 
