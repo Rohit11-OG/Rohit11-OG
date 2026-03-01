@@ -20,11 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rohit11-OG&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Rohit11-OG?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/badge/Status-AI_Engineer-success?style=for-the-badge&logo=robot" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science%20%7C%20Computer%20Vision-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-Nashik%2C%20India-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Working-Pune%2C%20India-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-8.09%2F10.0-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graduating-March%202026-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.E._CSE-Graduated_2026-blueviolet?style=for-the-badge&logo=graduation-cap" />
   
 </div>
 
@@ -275,6 +271,16 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit11-OG&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohit11-OG/Rohit11-OG/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohit11-OG/Rohit11-OG/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Rohit11-OG/Rohit11-OG/output/github-snake.svg" />
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
