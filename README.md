@@ -34,77 +34,46 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
+<table>
+<tr>
+<td width="55%">
+
 **👨‍💻 Rohit Mandwade**  
 📍 Nashik, Maharashtra, India  
-💼 AI Engineer @ Intuitive Research and Development Pvt Ltd (IRDPL)  
-🎓 B.E. Computer Engineering | Savitribai Phule Pune University  
+💼 AI Engineer @ **IRDPL**, Pune  
+🎓 B.E. Computer Engineering | SPPU (CGPA: 8.09/10.0)  
 🏆 Oracle Certified: Data Science & Gen AI Professional  
-
-**🔧 Technical Skills:**
-- **Languages:** Python, SQL, MySQL, JavaScript, C, C++, HTML, CSS
-- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
-- **Specialization:** Computer Vision, Machine Learning, Deep Learning, Reinforcement Learning, NLP, Data Science, Robotics
-- **Tools:** Flask, OpenCV, Matplotlib, Seaborn, Power BI, Tableau, AWS, Oracle Cloud, VS Code, Jupyter, LLMs, Hugging Face
-
-**📜 Certifications:**
-- Oracle Cloud Infrastructure 2025 - Data Science Professional
-- Oracle Certified: Data Science Professional
-- BCG - GenAI Job Simulation
-- JP Morgan Chase & Co. - Quantitative Research
-- University of Helsinki - Elements of AI
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> What I'm Up To
-
-🎓 **Education:**
-- **B.E. in Computer Engineering** | Savitribai Phule Pune University
-- **College:** Guru Gobind Singh College of Engineering, Nashik
-- **CGPA:** 8.09/10.0 | **Graduating:** March 2026
-
-💼 **Currently Working:**
-- **AI Engineer @ Intuitive Research and Development Pvt Ltd (IRDPL)** 🚀
-  - Building ML Algorithms for production systems
-  - Managing Computer Vision Projects for Robotic Systems
-  - Working in Pune, Maharashtra (Jan 2026 - Present)
-
-🏆 **Past Experience:**
-- **Indian Air Force – 11 BRD** (Dec 2024 – Jan 2025)
-  - Managed aircraft parts data integration & inventory tracking
-  - Automated data analysis using Excel with advanced coding
-  
-- **Altair Data Science Specialist** (July – Sept 2025)
-  - Achieved Outstanding grade (O: 90-100)
-  - Applied ML techniques using Python, Pandas, NumPy, Scikit-learn
 
 🚀 **Current Focus:**
 - Computer Vision for Robotics 🤖
-- Deep Learning & Neural Networks
-- Reinforcement Learning
+- Deep Learning & Reinforcement Learning
 - GenAI & Large Language Models
+
+💬 **Ask Me About:** AI/ML, Computer Vision, PyTorch, Data Science, Flask, Robotics
+
+⚡ **Fun Fact:** I turn data into insights faster than I turn coffee into code!
+
+</td>
+<td width="45%">
+
+📫 **Quick Links:**
+
+<a href="mailto:rohitm7298@gmail.com"><img src="https://img.shields.io/badge/Email-rohitm7298%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<a href="https://linkedin.com/in/rohit-mandwade-805979319"><img src="https://img.shields.io/badge/LinkedIn-rohit--mandwade-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://rohitmandwade.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rohitmandwade.vercel.app-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+
+<a href="https://github.com/Rohit11-OG"><img src="https://img.shields.io/badge/GitHub-Rohit11--OG-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 🌱 **Currently Learning:**
 - Advanced Reinforcement Learning
-- Large Language Models (LLMs) & GenAI
-- Advanced Computer Vision for Robotics
+- LLMs & GenAI
 - Cloud Computing (AWS, Oracle Cloud)
 
-💬 **Ask Me About:**
-- AI & Machine Learning
-- Computer Vision & Robotics
-- PyTorch & Deep Learning
-- Data Science & Analytics
-- Flask Development & Python
-- Working in the AI Industry
-
-📫 **Reach Me:**
-- 📧 Email: rohitm7298@gmail.com
-- 💼 LinkedIn: [rohit-mandwade](https://linkedin.com/in/rohit-mandwade-805979319)
-- 🌐 Portfolio: [rohitmandwade.vercel.app](https://rohitmandwade.vercel.app)
-- 📱 Phone: +91 9322168290
-- 🏢 Company: Intuitive Research and Development Pvt Ltd (IRDPL)
-
-⚡ **Fun Fact:** I turn data into insights faster than I turn coffee into code!
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -254,6 +223,34 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
 <br>GitHub
 </td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Cloud" />
+<br>Oracle Cloud
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+<br>Streamlit
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle" />
+<br>Kaggle
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Colab" />
+<br>Colab
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" />
+<br>Anaconda
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
 </tr>
 </table>
 
@@ -266,6 +263,10 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rohit11-OG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rohit11-OG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit11-OG&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -317,6 +318,10 @@
 
 ### 🎥 Vidgo.AI - AI Reel Generator
 
+<a href="https://github.com/Rohit11-OG/Vidgo.AI">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
@@ -337,6 +342,10 @@
 ---
 
 ### 💰 Dynamic Price Prediction for E-Commerce
+
+<a href="https://github.com/Rohit11-OG/Dynamic-Price-Prediction">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
