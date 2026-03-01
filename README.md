@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
   
   <!-- Animated typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+Engineer+%7C+Data+Science+%7C+Computer+Vision;ML+Algorithms+for+Robotics+%F0%9F%A4%96;Oracle+Certified+Data+Science+%26+GenAI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+Engineer+%7C+Data+Science+%7C+Computer+Vision;ML+Algorithms+for+Robotics+%F0%9F%A4%96;Oracle+Certified+Data+Science+%26+GenAI+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
@@ -70,8 +70,6 @@
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Tech Stack & Tools
 
@@ -266,6 +264,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohit11-OG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit11-OG&theme=tokyonight" alt="Profile Summary" />
 </p>
 
@@ -282,8 +284,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Rohit11-OG/Rohit11-OG/output/github-snake.svg" />
   </picture>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Professional Experience
 
@@ -372,8 +372,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -438,8 +436,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -458,10 +454,6 @@
 
 <a href="mailto:rohitm7298@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="tel:+919322168290">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </a>
 
 </div>
