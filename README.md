@@ -468,7 +468,7 @@
 ### 🎯 2026 Goals
   
 - 🎓 **Graduate** with flying colors from Computer Engineering
--  **Master** Reinforcement Learning & Advanced Computer Vision
+- 🧠 **Master** Reinforcement Learning & Advanced Computer Vision
 - 🌟 **Contribute** to high-impact Open Source AI/ML projects
 - 🏆 **Publish** research papers or technical articles
 - 🚀 **Build** production-grade AI solutions for real-world problems
