@@ -465,16 +465,6 @@
   
 ### 💙 Show Some Love by Starring ⭐ My Repositories!
 
-### 🎯 2026 Goals
-  
-- 🎓 **Graduate** with flying colors from Computer Engineering
-- 🧠 **Master** Reinforcement Learning & Advanced Computer Vision
-- 🌟 **Contribute** to high-impact Open Source AI/ML projects
-- 🏆 **Publish** research papers or technical articles
-- 🚀 **Build** production-grade AI solutions for real-world problems
-- 💼 **Expand** expertise in GenAI and Large Language Models
-- 🎓 **Mentor** aspiring AI engineers and data scientists
-
 </div>
 
 <br>
