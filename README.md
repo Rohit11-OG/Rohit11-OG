@@ -37,7 +37,7 @@
 **👨‍💻 Rohit Mandwade**  
 📍 Nashik, Maharashtra, India  
 💼 AI Engineer @ **IRDPL**, Pune  
-🎓 B.E. Computer Engineering | SPPU (CGPA: 8.09/10.0)  
+🎓 B.E. Computer Engineering | SPPU (CGPA: 7.95/10.0)  
 🏆 Oracle Certified: Data Science & Gen AI Professional  
 
 🚀 **Current Focus:**
@@ -322,6 +322,57 @@
 
 <div align="center">
 
+### 🤖 Robot Monitoring System
+
+<a href="https://github.com/Rohit11-OG/Robot-Monetoring-System">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel_RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/CV-Robotics-success?style=for-the-badge" />
+
+**AI-powered real-time robot monitoring system** using YOLO11 motion tracking with Intel RealSense 3D depth perception for industrial robotics.
+
+✨ **Key Features:**
+- 🤖 Robot state classification: MOVING, STATIONARY, ROBOT LOST
+- 📡 Intel RealSense 3D depth perception + ArUco marker detection
+- ⚡ 95% accuracy at 30+ FPS real-time performance
+- 🔔 Intelligent alerts + CSV logging for movement analytics
+
+**Tech Stack:** Python, YOLO11, OpenCV, Intel RealSense, ArUco
+
+---
+
+### ⚖️ CivicMate - AI Civic Assistant
+
+<a href="https://github.com/Rohit11-OG/Civic-AI-Copilot">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://civic-ai-copilot.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=for-the-badge&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_4_Scout_Vision-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Legal_Tech-blueviolet?style=for-the-badge" />
+
+**Multi-modal AI legal assistant** that simplifies legal documents in Hindi/English with privacy-first, zero-data-storage architecture.
+
+✨ **Key Features:**
+- 📄 Legal Document Analyzer with Llama 4 Scout 17B Vision (PDFs + images)
+- ⚠️ 3-tier risk classification (HIGH/MEDIUM/LOW) with deadline extraction
+- ✍️ Auto-generated reply drafts + RTI application templates
+- 🌱 Sustainability module with carbon footprint calculator
+
+**Tech Stack:** Python, Flask, Groq API, Llama 4 Scout Vision, NLP
+
+---
+
 ### 🎥 Vidgo.AI - AI Reel Generator
 
 <a href="https://github.com/Rohit11-OG/Vidgo.AI">
@@ -379,14 +430,21 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<h3>🎓 Oracle Certified</h3>
-<b>Data Science Professional</b>
+<img src="https://img.shields.io/badge/UpGrad-FF0000?style=for-the-badge&logoColor=white" />
+<h3>🧬 Generative AI Foundations</h3>
+<b>UpGrad</b>
 <br>
-<i>Oracle University</i>
-<br>
-📅 October 2025
+📅 January 2026
 </td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Code_With_Harry-1F425F?style=for-the-badge&logoColor=white" />
+<h3>💼 Ultimate Job Ready Data Science</h3>
+<b>Code With Harry</b>
+<br>
+📅 December 2025
+</td>
+</tr>
+<tr>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/JP_Morgan_Chase-0070BA?style=for-the-badge&logo=jpmorgan&logoColor=white" />
 <h3>📊 Quantitative Research</h3>
@@ -396,8 +454,26 @@
 <br>
 📅 November 2025
 </td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<h3>🎓 Oracle Certified</h3>
+<b>Data Science Professional</b>
+<br>
+<i>Oracle University</i>
+<br>
+📅 October 2025
+</td>
 </tr>
 <tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<h3>🧠 Oracle Certified</h3>
+<b>Generative AI Professional</b>
+<br>
+<i>Oracle University</i>
+<br>
+📅 September 2025
+</td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/University_Helsinki-00A3E0?style=for-the-badge&logo=university&logoColor=white" />
 <h3>🤖 Elements of AI</h3>
@@ -405,19 +481,12 @@
 <br>
 📅 July 2025
 </td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Boston_Consulting_Group-0073E6?style=for-the-badge&logo=bcg&logoColor=white" />
-<h3>🧠 GenAI Job Simulation</h3>
-<b>BCG (Boston Consulting Group)</b>
-<br>
-📅 2025
-</td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<h3>☁️ Oracle Cloud Infrastructure 2025</h3>
-<b>Certified Data Science Professional</b>
+<img src="https://img.shields.io/badge/Boston_Consulting_Group-0073E6?style=for-the-badge&logo=bcg&logoColor=white" />
+<h3>🧠 GenAI Job Simulation</h3>
+<b>BCG (Boston Consulting Group)</b>
 <br>
 📅 2025
 </td>
@@ -428,11 +497,11 @@
 
 🤖 **Currently Working** as AI Engineer at IRDPL - Building ML & Computer Vision for Robotics  
 🎯 **Outstanding Performance** in Altair Data Science Master Virtual Internship (O: 90-100)  
-🎓 **CGPA: 8.09/10.0** in Computer Engineering  
+🎓 **CGPA: 7.95/10.0** in Computer Engineering  
 🛡️ **Defense Experience** at Indian Air Force – 11 BRD  
 🚀 **Real-world AI Projects** with production-ready applications  
 🧠 **Top Skills**: Reinforcement Learning, PyTorch, Artificial Neural Networks  
-☁️ **5+ Certifications** including Oracle OCI, BCG GenAI, JP Morgan  
+☁️ **6+ Certifications** including Oracle Data Science & GenAI, UpGrad GenAI, JP Morgan  
 
 </div>
 
